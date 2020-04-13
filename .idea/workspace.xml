@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9322400-9ba9-4688-81f8-b2f97a03ddf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aUpRlPiDvix8e8l90h5GRMGQM6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="phonebook" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jin\LEARNING CODE\In Order by Dates\New Work 2 (PhoneBook)\src\test\java" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9322400-9ba9-4688-81f8-b2f97a03ddf0" name="Default Changelist" comment="" />
+      <created>1586800020343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586800020343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1153" y="356" key="#Project_Structure" timestamp="1586800126715">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1153" y="356" key="#Project_Structure/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-1920.0.1920.1080" timestamp="1586800126715" />
+    <state x="-1164" y="399" width="408" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586800321895">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1164" y="399" width="408" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-1920.0.1920.1080" timestamp="1586800321895" />
+    <state x="-1230" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586800347238">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1230" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/-3840.0.1920.1080/-1920.0.1920.1080/-5280.210.1440.860@-1920.0.1920.1080" timestamp="1586800347238" />
+  </component>
+</project>
